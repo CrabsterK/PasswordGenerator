@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Password</string>
+    <string name="action_author">Author</string>
+    <string name="action_aboutApp">About app</string>
+    <string name="leave">See you later!</string>
+
+
+    <!--AutorActivity-->
+    <string name="author">Arkadiusz Marcinowski</string>
+    <string name="authorWho">Student at the Wroclaw University of Science and Technology.</string>
+    <string name="contact">If you have any feedback, suggestions, questions or whatever feel free to contact me.</string>
+    <string name="sendbutton">Send mail</string>
+
+    <!--AboutAppActivity-->
+    <string name="app">Password Generator</string>
+    <string name="appWho">Random Password Generator is an app which allows you to generate secure, random passwords
+        with no need to rely on online services which may compromise your security. With settings helping you to
+        choose how long and how complex your passwords are, generating random passwords is fast and easy.
+        \n\nJust shake your phone!</string>
+
+    <!--content_main-->
+    <string name="shake">SHAKE TO GENERATE \nPASSWORD</string>
+    <string name="newpass">Your new password: </string>
+    <string name="length">Length:</string>
+    <string name="AZ">A-Z</string>
+    <string name="zeronine">0-9</string>
+    <string name="az">a-z</string>
+    <string name="symbols">!$%@#</string>
+
+
+</resources>
